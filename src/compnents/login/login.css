@@ -1,0 +1,32 @@
+.login{
+    border: 1px solid #aaaa;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.row{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.input .MuiFormControl-root{
+    min-width: 200px;
+    margin: 15px;
+}
+
+.input{
+text-align: center;
+}
+.login-head{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.errorMessage{
+    color: red;
+    font-weight: 700;
+    width: 200px;
+    
+}
